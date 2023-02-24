@@ -52,7 +52,7 @@ them?
 - Placing a <!-- tag before the code and a --> tag after the code that I want to hide, ore use the "CTRL + /" shortcut
 
 18. What HTML tag is used to create an unordered list?
-- <ul></ul>
+- "<ul></ul>"
 
 19. What HTML tag is used to create an ordered list?
 - <ol></ol>
